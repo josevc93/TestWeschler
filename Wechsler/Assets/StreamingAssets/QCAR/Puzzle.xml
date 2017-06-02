@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Solucion12" size="400.000000 400.000000" />
+    <ImageTarget name="Solucion11" size="400.000000 400.000000" />
+    <ImageTarget name="Solucion10" size="400.000000 400.000000" />
+    <ImageTarget name="Solucion09" size="400.000000 400.000000" />
+    <ImageTarget name="Solucion08" size="400.000000 401.505646" />
+    <ImageTarget name="Solucion07" size="400.000000 401.505646" />
+    <ImageTarget name="Solucion06" size="400.000000 401.505646" />
+    <ImageTarget name="Solucion05" size="400.000000 401.505646" />
+    <ImageTarget name="Solucion04" size="400.000000 400.000000" />
+    <ImageTarget name="Solucion03" size="400.000000 400.000000" />
+    <ImageTarget name="Solucion02" size="400.000000 400.000000" />
+    <ImageTarget name="Solucion01" size="400.000000 400.000000" />
+    <ImageTarget name="Solucion00" size="400.000000 401.505646" />
+    <ImageTarget name="mitadRB" size="400.000000 400.000000" />
+  </Tracking>
+</QCARConfig>
